@@ -56,7 +56,7 @@ export const Footer = () => {
                 <span className="block text-slate-500 font-semibold uppercase text-[10px]">Owner & Developer</span>
                 <span className="text-slate-200 font-medium flex items-center gap-1.5 mt-0.5">
                   <User className="w-3.5 h-3.5 text-indigo-400" />
-                  Anuj Vishwakarma
+                  Vishwakarma
                 </span>
               </li>
               <li>
@@ -72,11 +72,11 @@ export const Footer = () => {
               <li>
                 <span className="block text-slate-500 font-semibold uppercase text-[10px]">Email</span>
                 <a
-                  href="mailto:anujvishwakarma33033@gmail.com"
+                  href="mailto:vanamika960@gmail.com"
                   className="text-slate-200 hover:text-indigo-400 font-medium flex items-center gap-1.5 mt-0.5 transition-colors break-all"
                 >
                   <Mail className="w-3.5 h-3.5 text-indigo-400" />
-                  anujvishwakarma33033@gmail.com
+                  vanamika960@gmail.com
                 </a>
               </li>
             </ul>
@@ -86,7 +86,7 @@ export const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} WonderLust. All rights reserved. Built by Anuj Vishwakarma.</p>
+          <p>© {new Date().getFullYear()} WonderLust. All rights reserved. Built by Vishwakarma.</p>
           <div className="flex items-center gap-6">
             <Link to="/about" className="hover:text-slate-300">About</Link>
             <Link to="/contact" className="hover:text-slate-300">Contact</Link>

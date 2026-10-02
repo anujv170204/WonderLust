@@ -25,7 +25,7 @@ export const AboutPage = () => {
           <span className="text-[10px] font-bold uppercase tracking-wider text-indigo-600">Project Leadership</span>
           <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
             <User className="w-5 h-5 text-indigo-600" />
-            <span>Owner & Developer: Anuj Vishwakarma</span>
+            <span>Owner & Developer: Vishwakarma</span>
           </h3>
           <p className="text-xs text-slate-500">
             BSc Computer Science student project focused on modern MERN full-stack development.
@@ -45,7 +45,7 @@ export const AboutPage = () => {
             className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold transition-colors break-all"
           >
             <Mail className="w-4 h-4 text-indigo-600" />
-            <span>anujvishwakarma33033@gmail.com</span>
+            <span>vanamika960@gmail.com</span>
           </a>
         </div>
       </div>

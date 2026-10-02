@@ -29,7 +29,7 @@ export const ContactPage = () => {
             <User className="w-5 h-5 text-indigo-600 shrink-0 mt-0.5" />
             <div>
               <h4 className="text-xs font-bold text-slate-900 uppercase">Owner</h4>
-              <p className="text-xs text-slate-700 font-semibold mt-0.5">Anuj Vishwakarma</p>
+              <p className="text-xs text-slate-700 font-semibold mt-0.5">Vishwakarma</p>
             </div>
           </div>
 
@@ -51,10 +51,10 @@ export const ContactPage = () => {
             <div>
               <h4 className="text-xs font-bold text-slate-900 uppercase">Email Support</h4>
               <a
-                href="mailto:anujvishwakarma33033@gmail.com"
+                href="mailto:vanamika960@gmail.com"
                 className="text-xs text-indigo-600 hover:text-indigo-800 font-semibold mt-0.5 block transition-colors break-all"
               >
-                anujvishwakarma33033@gmail.com
+                vanamika960@gmail.com
               </a>
             </div>
           </div>
